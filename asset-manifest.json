@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/2HTK-commerical-web-shop/static/css/main.fea85c48.css",
-    "main.js": "/2HTK-commerical-web-shop/static/js/main.f89c2b86.js",
+    "main.js": "/2HTK-commerical-web-shop/static/js/main.dc5d3cb1.js",
     "static/js/4892.46e41ed9.chunk.js": "/2HTK-commerical-web-shop/static/js/4892.46e41ed9.chunk.js",
     "static/js/1777.41906f68.chunk.js": "/2HTK-commerical-web-shop/static/js/1777.41906f68.chunk.js",
     "static/js/7655.e2075b79.chunk.js": "/2HTK-commerical-web-shop/static/js/7655.e2075b79.chunk.js",
@@ -102,7 +102,7 @@
     "static/media/cash.svg": "/2HTK-commerical-web-shop/static/media/cash.c5b9a7f20d44a9ee43520b9c6ea801bc.svg",
     "static/media/laptop.svg": "/2HTK-commerical-web-shop/static/media/laptop.1a2f51bad63f09a78eaefb8965990cbe.svg",
     "main.fea85c48.css.map": "/2HTK-commerical-web-shop/static/css/main.fea85c48.css.map",
-    "main.f89c2b86.js.map": "/2HTK-commerical-web-shop/static/js/main.f89c2b86.js.map",
+    "main.dc5d3cb1.js.map": "/2HTK-commerical-web-shop/static/js/main.dc5d3cb1.js.map",
     "4892.46e41ed9.chunk.js.map": "/2HTK-commerical-web-shop/static/js/4892.46e41ed9.chunk.js.map",
     "1777.41906f68.chunk.js.map": "/2HTK-commerical-web-shop/static/js/1777.41906f68.chunk.js.map",
     "7655.e2075b79.chunk.js.map": "/2HTK-commerical-web-shop/static/js/7655.e2075b79.chunk.js.map",
@@ -176,6 +176,6 @@
   },
   "entrypoints": [
     "static/css/main.fea85c48.css",
-    "static/js/main.f89c2b86.js"
+    "static/js/main.dc5d3cb1.js"
   ]
 }
