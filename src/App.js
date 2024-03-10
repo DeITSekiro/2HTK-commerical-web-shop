@@ -44,7 +44,7 @@ function App() {
           }
         >
           <Routes>
-            <Route exact path="/2HTK-commerical-web-shop" element={<HomeView/>} />
+            <Route exact path="/" element={<HomeView/>} />
             <Route exact path="/account/signin" element={<SignInView/>} />
             <Route exact path="/account/signup" element={<SignUpView/>} />
             <Route
