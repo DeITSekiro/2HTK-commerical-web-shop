@@ -9,7 +9,7 @@ const Header = () => {
         <div className="row g-3">
           <div className="col-md-3 text-center">
             <Link to="/">
-              <img alt="logo" src="../../images/logo.webp" />
+              <img alt="logo" src="./public/data/images/logo.jpg" />
             </Link>
           </div>
           <div className="col-md-5">
